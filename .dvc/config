@@ -1,2 +1,5 @@
+[core]
+    autostage = true
+    remote = dagshub
 ['remote "dagshub"']
     url = https://dagshub.com/Jwlandinez/13MBID-ABR2627_JWLR.dvc
